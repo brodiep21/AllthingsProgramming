@@ -31,7 +31,10 @@ Learn what you want to do, before you push it into code.
 Reading and Help
     Github Docs on Rest API -->
     https://docs.github.com/en/rest  
+    https://www.softwaretestinghelp.com/github-rest-api-tutorial/
+    https://www.softwaretestinghelp.com/github-tutorial/
 
 Videos
     IBM Cloud Rest API explanation
     https://www.youtube.com/watch?v=lsMQRaeKNDk
+    
