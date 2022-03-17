@@ -9,7 +9,3 @@ https://pkg.go.dev/github.com/google/go-github/v32/github#pkg-examples
 
 
 
-
-my role
-project issues/difficulties/solutions
-key highlights of project
