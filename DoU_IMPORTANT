@@ -10,14 +10,14 @@ Theory
 
 Small 
 --------------------
--CRUD - [ ]
--Databases - [ ]
--Testing - [ ]
--Containers - [ ]
--paas - [ ] 
--auth (basic / OIDC) - [ ]
--ci/cd - [ ]
--3rd part integration - [ ]
+-CRUD - []
+-Databases - []
+-Testing - []
+-Containers - []
+-paas - [] 
+-auth (basic / OIDC) - []
+-ci/cd - []
+-3rd part integration - []
 --------------------
 Medium
 --------------------
