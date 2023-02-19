@@ -1,0 +1,35 @@
+What is it?
+Why Would I use it?
+PoC for posterity.
+
+
+Theory 
+-binary
+-set notation
+-big O
+
+Small 
+--------------------
+-CRUD - [ ]
+-Databases - [ ]
+-Testing - [ ]
+-Containers - [ ]
+-paas - [ ] 
+-auth (basic / OIDC) - [ ]
+-ci/cd - [ ]
+-3rd part integration - [ ]
+--------------------
+Medium
+--------------------
+-Caching - [ ]
+-Message queues - [ ] 
+-Distributed data - [ ] 
+-Automation - [ ] 
+-Telemetry - [ ]
+--------------------
+Large
+--------------------
+-Event Driven systems - [ ] 
+-Kubernetes - [ ]
+-gRPC - [ ] 
+--------------------
