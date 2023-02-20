@@ -10,10 +10,10 @@ Theory
 
 Small 
 --------------------
--CRUD - [ ]
--Databases - [ ]
--Testing - [ ]
--Containers - [ ]
+-CRUD - [x]
+-Databases - [x]
+-Testing - [x]
+-Containers - [x]
 -paas - [ ] 
 -auth (basic / OIDC) - [ ]
 -ci/cd - [ ]
