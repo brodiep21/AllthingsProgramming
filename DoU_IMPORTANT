@@ -18,6 +18,8 @@ Small
 -auth (basic / OIDC) - [ ]
 -ci/cd - [ ]
 -3rd part integration - [ ]
+-a/b experiments - [ ]
+-canary deployment - [ ]
 --------------------
 Medium
 --------------------
